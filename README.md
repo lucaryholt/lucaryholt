@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there and welcome 👋
 
-<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaryholt&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 📫 Reach me
+I can be reached here, on email (**lucaryholt@gmail.com**) and [LinkedIn](https://www.linkedin.com/in/lucaryholt/).
+
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaryholt&repo=knowledge_portal)](https://github.com/anuraghazra/github-readme-stats)
 **lucaryholt/lucaryholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
