@@ -1,6 +1,6 @@
 ### Hi there and welcome 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaryholt&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaryholt&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
 
 #### 📫 Reach me
 I can be reached here, on email (**lucaryholt@gmail.com**) and [LinkedIn](https://www.linkedin.com/in/lucaryholt/).
